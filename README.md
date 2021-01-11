@@ -1,3 +1,4 @@
-# Interface de login do Instagram usando Flexbox!
+# Interface de login do Instagram usando Flexbox! :grin:
 
-![print projeto insta](https://user-images.githubusercontent.com/50914198/104142313-d4c95c80-5399-11eb-89b6-ddd4d19da9f1.png)
+![image](https://user-images.githubusercontent.com/50914198/104142387-2b369b00-539a-11eb-8dd4-f0b59aad45eb.png)
+
